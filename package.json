@@ -1,0 +1,26 @@
+{
+  "name": "awesome-loader",
+  "version": "1.0.0",
+  "description": "Awesome square grid activity indicator for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository: (https://github.com/champ3oy/RN-Awesome-Loader.git)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/champ3oy/RN-Awesome-Loader.git"
+  },
+  "keywords": [
+    "loader",
+    "loading",
+    "activity",
+    "indicator",
+    "progress"
+  ],
+  "author": "cirlorm_io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/champ3oy/RN-Awesome-Loader/issues"
+  },
+  "homepage": "https://github.com/champ3oy/RN-Awesome-Loader#readme"
+}
