@@ -15,7 +15,7 @@ npm install rn-awesome-loader
 ## Usage
 
 ```javascript
-import AwesomeLoader from 'awesome-loader'
+import AwesomeLoader from 'rn-awesome-loader'
 
 ...
 render () {
