@@ -15,6 +15,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
   },
 });
+
 export default function AwesomeLoader() {
   const init = Array(total)
     .fill(1)
@@ -23,7 +24,7 @@ export default function AwesomeLoader() {
 
   useEffect(() => {
     console.log("update");
-    const c = anim.map((v, i: number) => {
+    const c = anim.map((v, i) => {
       const t = 400 + Math.random() * 300;
       const seq = Animated.parallel([
         Animated.sequence([
