@@ -2,6 +2,8 @@
 # RN-Awesome-Loader
 Make awesome grid like activity indicators
 
+<a href="https://www.buymeacoffee.com/Cirlorm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="50" ></a>
+
 ## Installation
 
 Use the package manager [npm](https://npmjs.com) to install RN-Awesome-Loader.
