@@ -1,8 +1,5 @@
 
 # RN-Awesome-Loader
-
-[![npm (scope)] (https://img.shields.io/apm/l/rn-awesome-loader)] (https://github.com/champ3oy/RN-Awesome-Loader)
-
 Make awesome grid like activity indicators
 
 ## Installation
