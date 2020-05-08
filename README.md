@@ -9,7 +9,7 @@ Make awesome grid like activity indicators
 Use the package manager [npm](https://npmjs.com) to install RN-Awesome-Loader.
 
 ```bash
-npm install awesome-loader
+npm install rn-awesome-loader
 ```
 
 ## Usage
