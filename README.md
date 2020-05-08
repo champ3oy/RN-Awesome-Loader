@@ -6,7 +6,7 @@ Make awesome grid like activity indicators
 
 ## Screenshot
 
-![alt screenshot](https://github.com/champ3oy/rn-awesome-loader/blob/screenshot/screenshot.hig?raw=true)
+![alt screenshot](https://github.com/champ3oy/rn-awesome-loader/screenshot/screenshot.hig?raw=true)
 
 
 ## Installation
