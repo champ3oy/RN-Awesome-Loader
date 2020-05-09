@@ -6,7 +6,7 @@ Make awesome grid like activity indicators
 
 ## Screenshot
 
-![Screenshot](screenshot/screenshot.gif?raw=true "Screenshot")
+![Screenshot](https://i.ibb.co/CvTdDDC/screenshot.gif "Screenshot")
 
 
 ## Installation

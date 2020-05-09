@@ -1,6 +1,6 @@
 {
   "name": "rn-awesome-loader",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Awesome square grid activity indicator for react native",
   "main": "index.js",
   "scripts": {
